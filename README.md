@@ -26,7 +26,7 @@ Using the Gemini API, it allows you to instantly analyze images, screenshots, or
 ### Results & Analysis View  
 ![VisuaLens AI Screenshot 2](https://github.com/Blitzdevdaddy/visualens/blob/main/ReactTS%20app/attached_assets/generated_images/Object_recognition_shopping_demo_1a4905bd.png/?raw=true)
 
-*(Replace the placeholders above with your actual images.)*
+
 
 ---
 
@@ -40,7 +40,7 @@ Using the Gemini API, it allows you to instantly analyze images, screenshots, or
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech 
 
 - **Platform:** Windows  
 - **API:** Google Gemini API  
@@ -51,7 +51,7 @@ Using the Gemini API, it allows you to instantly analyze images, screenshots, or
 ## 📥 Installation
 
 1. Download the latest release from the **Releases** section.  
-2. Extract the files and run `VisualensAI.exe`.  
+2. Run `VisualensAI.exe`.  
 3. Enter your Gemini API key when prompted.  
 4. Start discovering insights from your screen captures instantly.
 
@@ -60,8 +60,6 @@ Using the Gemini API, it allows you to instantly analyze images, screenshots, or
 ## 🔗 Useful Links
 
 - [Official Website](https://visualens-ai.replit.app/)
-- [Report an Issue](../../issues)
-- [Give Feedback](../../discussions)
 
 ---
 
