@@ -21,10 +21,10 @@ Using the Gemini API, it allows you to instantly analyze images, screenshots, or
 ## 🖼️ Screenshots
 
 ### Capture Interface  
-![VisuaLens AI Screenshot 1]((https://github.com/Blitzdevdaddy/visualens/blob/main/ReactTS%20app/attached_assets/generated_images/Text_extraction_feature_demo_e2e66e22.png))
+![VisuaLens AI Screenshot 1](https://github.com/Blitzdevdaddy/visualens/blob/main/ReactTS%20app/attached_assets/generated_images/Text_extraction_feature_demo_e2e66e22.png)
 
 ### Results & Analysis View  
-![VisuaLens AI Screenshot 2]((https://github.com/Blitzdevdaddy/visualens/blob/main/ReactTS%20app/attached_assets/generated_images/Object_recognition_shopping_demo_1a4905bd.png))
+![VisuaLens AI Screenshot 2](https://github.com/Blitzdevdaddy/visualens/blob/main/ReactTS%20app/attached_assets/generated_images/Object_recognition_shopping_demo_1a4905bd.png/?raw=true)
 
 *(Replace the placeholders above with your actual images.)*
 
