@@ -3,7 +3,7 @@
 VisuaLens AI is a powerful Windows tool that brings Google Lens–like visual search capabilities to your desktop.  
 Using the Gemini API, it allows you to instantly analyze images, screenshots, or any on-screen content to discover information, objects, text, and more — all without leaving your workflow.
 
-[🌐 Visit Website](https://visualens-ai.replit.app/)
+[🌐 Visit Website] - https://visualens-ai.replit.app/ 
 
 ---
 
@@ -21,10 +21,10 @@ Using the Gemini API, it allows you to instantly analyze images, screenshots, or
 ## 🖼️ Screenshots
 
 ### Capture Interface  
-![VisuaLens AI Screenshot 1](https://via.placeholder.com/800x450?text=Screenshot+1)
+![VisuaLens AI Screenshot 1]((https://github.com/Blitzdevdaddy/visualens/blob/main/ReactTS%20app/attached_assets/generated_images/Text_extraction_feature_demo_e2e66e22.png))
 
 ### Results & Analysis View  
-![VisuaLens AI Screenshot 2](https://via.placeholder.com/800x450?text=Screenshot+2)
+![VisuaLens AI Screenshot 2]((https://github.com/Blitzdevdaddy/visualens/blob/main/ReactTS%20app/attached_assets/generated_images/Object_recognition_shopping_demo_1a4905bd.png))
 
 *(Replace the placeholders above with your actual images.)*
 
